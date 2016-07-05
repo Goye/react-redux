@@ -1,6 +1,6 @@
 # React project
 
-> Generic TreeView component. It generates a tree view with expand/collapse functionality based in a JS object or JSON coming from AJAX.
+> Starting with React and redux 
 
 ## Technologies
 
